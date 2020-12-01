@@ -1,4 +1,4 @@
-package MyTestSDK
+package SampleAppSDK
 
 
 

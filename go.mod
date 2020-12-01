@@ -1,3 +1,3 @@
-module laiqahmad11/MyTestSDK
+module laiqahmad11/SampleAppSDK
 
 go 1.14
